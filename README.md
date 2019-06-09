@@ -26,6 +26,4 @@ a:link{text-decoration:none;}
 <ul>
 <li>Hi</li>
 <ul>
-</p>
-</body>
-</html>
+
