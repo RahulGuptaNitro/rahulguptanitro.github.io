@@ -16,10 +16,10 @@ tag:
 ![project 1](http://www.illuminationworksllc.com/wp-content/uploads/2017/04/ProjectManagement-1.jpg)
 {: .image-pull-right}
 
-<center><b>JBlog</b> is a simple jekyll theme.</center>
+<center><b>Project</b> work.</center>
 
 ## About
 
-I am [rahulguptanitro](https://github.com/rahulguptanitro/)'s 
+I am [rahulguptanitro](https://github.com/rahulguptanitro/). 
 
 
