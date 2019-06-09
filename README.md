@@ -17,8 +17,8 @@ a:link{text-decoration:none;}
 <h1>Rahul Kumar Gupta</h1>
 <!--Sub Title-->
 <h3><a href="mailto:rahulguptanitro@gmail.com" title="Gmail"><img src="Image.png" height="20"/>rahulguptanitro@gmail.com</a></h3>
-<h3><a href="github.com/rahulguptanitro" title="Github">github</a></h3>
-<h3><a href="linkedin.com/in/rahul-k-gupta" title="LinkedIn">linkedin</a></h3>
+<h3><a href="https://github.com/rahulguptanitro" title="Github">github</a></h3>
+<h3><a href="https://linkedin.com/in/rahul-k-gupta" title="LinkedIn">linkedin</a></h3>
 <hr />
 <p>
 <em><strong>Computer Science Enthusiast, always ready to explore the new elements of computer engineering.</strong></em>
