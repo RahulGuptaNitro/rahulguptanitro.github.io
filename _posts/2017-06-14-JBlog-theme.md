@@ -2,7 +2,7 @@
 layout: post
 title:  "Project 1"
 image: "http://www.illuminationworksllc.com/wp-content/uploads/2017/04/ProjectManagement-1.jpg"
-date:   2016-03-21
+date:   2019-06-09
 excerpt: "Simple project"
 project: true
 tag:
