@@ -1,4 +1,5 @@
 # Site settings
+theme: basic
 title: Hanuman
 description: Hanuman is a minimal yet powerful Jekyll theme for your blogs and websites.
 cover: assets/images/radhakrishna.jpg
