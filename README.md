@@ -4,7 +4,7 @@
 <style type="text/css">
 body {background-color:lightgreen;border-color:green;border-width:2px;border-style:dashed;text-indent:25px;}
 h1 {color:#800000;font-family:cooper;text-align:center;padding:20px;font-size:50px;background-color:green;height:60px;}
-h3 {font-family:system;text-indent:50px;}
+h3 {font-family:system;}
 p {line-height:90%;}
 ul {font-style:italic;text-indent:15px;}
 a:hover{color:red;font-weight:bold;}
