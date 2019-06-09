@@ -23,9 +23,9 @@ sass:
 
 # Social
 # if you don't have any of social below, comment the line.
-#email:
-twitter: username
-facebook: username
+email: rahulguptanitro@gmail.com
+#twitter: username
+facebook: r0ckingRahul
 #google:
   #plus: #username
   #analytics:
@@ -33,18 +33,18 @@ facebook: username
   #ad-client:
   #ad-slot:
 #bing-verify:
-github: username
-stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-linkedin: username
+github: RahulGuptaNitro
+#stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
+linkedin: rahul-k-gupta
 #xing: username
-instagram: username
-lastfm: username
-tumblr: username
+#instagram: username
+#lastfm: username
+#tumblr: username
 #pinterest: username
 #foursquare: username
-steam: username
+#steam: username
 #dribbble: username
-youtube: username
+#youtube: username
 #soundcloud: username
 #weibo: username
 #flickr: username
