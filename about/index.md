@@ -10,12 +10,15 @@ date: 2019-06-09
 
 
 
-## About
+## Bit About Me
 
-Hi! I am Rahul pursuing Bachelor of technology in Computer Science and Engineering from University of Lucknow.
+Hi! I am Rahul Kumar Gupta pursuing Bachelor of Technology in Computer Science and Engineering from University of Lucknow.
+
+I love programming. It makes me happy and I am always ready to code and learn new things introduced to this huge Virtual World of Computer Science. In my Eighth Standard when I was learning C++ as a part of curriculam and made a simple calculator program, I was very much astonished as well as furious about the computer that it can do anything following commands. From then, Computer is as a special part in my life.
 
 
-**star** .
+
+**Rahul** .
 
       
 
