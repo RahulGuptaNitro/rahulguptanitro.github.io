@@ -22,7 +22,7 @@ tag:
 
 <p>It is a basic android app containing webview, back as well as refresh button. It also has banner ad impletation. This app was made through Android Studio.</p>
 <p>I started working on this app in holiday break after my twelfth boards and published on play store. It has around 30,000 downloads.</p>
-<p>You can download the app from [play store](https://play.google.com/store/apps/details?id=com.antitech.locoladoo).</p>
-<p>You can view the code on [github](https://github.com/RahulGuptaNitro/LOCO-Ladoo).</p> 
+<p>You can download the app from </p>[play store](https://play.google.com/store/apps/details?id=com.antitech.locoladoo).
+<p>You can view the code on </p>[github](https://github.com/RahulGuptaNitro/LOCO-Ladoo). 
 
 [Home](https://rahulguptanitro.github.io){: .btn .btn-info}
