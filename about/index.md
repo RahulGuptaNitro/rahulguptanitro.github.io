@@ -15,7 +15,7 @@ date: 2019-06-09
 Hi! I am Rahul pursuing Bachelor of technology in Computer Science and Engineering from University of Lucknow.
 
 
-\**star** .
+**star** .
 
       
 
