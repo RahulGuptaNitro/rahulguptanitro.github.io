@@ -5,17 +5,17 @@ tags: [about, Rahul, Life, me]
 date: 2019-06-09
 ---
 
-![jekyll Image](https://raw.githubusercontent.com/RahulGuptaNitro/rahulguptanitro.github.io/master/about.jpg)
+![About](https://raw.githubusercontent.com/RahulGuptaNitro/rahulguptanitro.github.io/master/about.jpg)
 {: .image-pull-right}
 
 
 
 ## About
 
-Hi.
+Hi! I am Rahul pursuing Bachelor of technology in Computer Science and Engineering from University of Lucknow.
 
 
- a **star** .
+\**star** .
 
       
 
