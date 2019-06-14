@@ -13,7 +13,7 @@ tag:
 - project
 ---
 
-![project 1](https://lh3.googleusercontent.com/ibY-x-2uiTazBbFuuVBdXRLtWJskBvTxRqOE5EWtcruUabRkhNz4KpDXR6M_m2g2BcE4Eqk=w16383)
+![project 1](locoladoo.png)
 {: .image-pull-right}
 
 <center><b>Self Project</b></center>
