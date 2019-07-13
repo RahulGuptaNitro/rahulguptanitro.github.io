@@ -3,8 +3,8 @@
 - title: Home
   url: /
 
-#- title: Blog
- # url: /blog/
+- title: Testimonial
+  url: /testimonial/
 
 - title: Projects
   url: /projects/
