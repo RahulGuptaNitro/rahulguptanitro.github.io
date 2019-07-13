@@ -16,7 +16,7 @@ tag:
 ![project 1](https://github.com/RahulGuptaNitro/rahulguptanitro.github.io/blob/master/locoladoo.png?raw=true)
 {: .image-pull-right}
 
-<center><b>Self Project</b></center>
+<center><b>Android App Project</b></center>
 
 ## About 
 
