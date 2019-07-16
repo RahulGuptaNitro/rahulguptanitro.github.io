@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Campus Ambassador- IIM Rohtak's Infusion"
+title:  "IIM Rohtak's Infusion"
 date:   2019-01-26
 excerpt: "Infusion is the annual management, social, cultural and sports festival of the Indian Institute of Management Rohtak."
 tag:
@@ -20,4 +20,4 @@ I was appointed Campus Ambassador to promote the IIM Rohtak's Infusion'19 in my 
 
 
 Certificate-
-<iframe src="https://drive.google.com/file/d/0Bwl9kT_fuIocT0VYaGZ4VjhYN1pfZ3hMMEIyNGc5RmJ6SGNZ/preview" width="640" height="480"></iframe>
+<iframe src="https://drive.google.com/file/d/0Bwl9kT_fuIocT0VYaGZ4VjhYN1pfZ3hMMEIyNGc5RmJ6SGNZ/preview" width="100%" height="480"></iframe>
