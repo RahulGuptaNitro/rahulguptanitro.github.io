@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Campus Ambassador- Mechanica IIT Madras"
+title:  "Mechanica IIT Madras"
 date:   2019-03-30
 excerpt: "Mechanica is the technical festival of Mechanical Engineering, IIT Madras"
 tag:
@@ -20,4 +20,4 @@ I promoted this event on Social Media and in my campus.
 
 
 Cerificate-
-<iframe src="https://drive.google.com/file/d/1oW0wpS_oYMPIeKwuuRdio0_QXqMHvKIR/preview" width="640" height="480"></iframe>
+<iframe src="https://drive.google.com/file/d/1oW0wpS_oYMPIeKwuuRdio0_QXqMHvKIR/preview" width="100%" height="480"></iframe>
