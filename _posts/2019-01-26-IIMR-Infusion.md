@@ -18,6 +18,6 @@ With 6 editions completed successfully, Infusion is becoming one of the biggest 
 
 I was appointed Campus Ambassador to promote the IIM Rohtak's Infusion'19 in my campus.
 
-![Certificate](https://drive.google.com/file/d/0Bwl9kT_fuIocT0VYaGZ4VjhYN1pfZ3hMMEIyNGc5RmJ6SGNZ/view)
+![Certificate](https://drive.google.com/file/d/0Bwl9kT_fuIocT0VYaGZ4VjhYN1pfZ3hMMEIyNGc5RmJ6SGNZ/preview)
 {: .image-pull-right}
 
