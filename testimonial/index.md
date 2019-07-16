@@ -1,5 +1,5 @@
 ---
 layout: post-index
-title: All Testimoonial
+title: Testimonials
 excerpt: "A List of Testimonial"
 ---
