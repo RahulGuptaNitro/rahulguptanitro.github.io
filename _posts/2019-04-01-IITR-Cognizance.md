@@ -19,4 +19,4 @@ I organised a Seminar for promotion of Indian Institute of Technology Roorkee's 
 
 
 Certificate-
-<iframe src="https://drive.google.com/file/d/1DPQO87jiB0AS8qspfjTXleXHQA5Mggyg/preview" width="100%" height="auto"></iframe>
+<iframe src="https://drive.google.com/file/d/1DPQO87jiB0AS8qspfjTXleXHQA5Mggyg/preview" width="100%" height="640"></iframe>
