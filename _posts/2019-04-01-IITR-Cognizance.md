@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Student Partner- Cognizance IIT Roorkee"
+title:  "Cognizance IIT Roorkee"
 date:   2019-04-01
 excerpt: "Cognizance, the Annual Technical Festival of IIT Roorkee"
 tag:
@@ -19,4 +19,4 @@ I organised a Seminar for promotion of Indian Institute of Technology Roorkee's 
 
 
 Certificate-
-<iframe src="https://drive.google.com/file/d/1DPQO87jiB0AS8qspfjTXleXHQA5Mggyg/preview" width="auto" height="auto"></iframe>
+<iframe src="https://drive.google.com/file/d/1DPQO87jiB0AS8qspfjTXleXHQA5Mggyg/preview" width="100%" height="100%"></iframe>
