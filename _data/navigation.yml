@@ -3,11 +3,11 @@
 - title: Home
   url: /
 
-- title: Testimonial
-  url: /testimonial/
-
 - title: Projects
   url: /projects/
+  
+  - title: Testimonials
+  url: /testimonial/
 
 - title: About
   url: /about/
