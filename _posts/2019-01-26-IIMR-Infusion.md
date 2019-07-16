@@ -20,6 +20,3 @@ I was appointed Campus Ambassador to promote the IIM Rohtak's Infusion'19 in my 
 
 
 <iframe src="https://drive.google.com/file/d/0Bwl9kT_fuIocT0VYaGZ4VjhYN1pfZ3hMMEIyNGc5RmJ6SGNZ/preview" width="640" height="480"></iframe>
-![Certificate](https://drive.google.com/file/d/0Bwl9kT_fuIocT0VYaGZ4VjhYN1pfZ3hMMEIyNGc5RmJ6SGNZ/preview)
-{: .image-pull-right}
-
