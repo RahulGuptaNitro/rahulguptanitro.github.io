@@ -3,6 +3,7 @@ layout: post
 title: "MIPS Nedir"
 date: 2012-05-22
 excerpt: "Mips ve assembly kodları giriş."
+testimonial: true
 tags: [sample post, readability, test]
 ---
 **Mips Nedir ?**
