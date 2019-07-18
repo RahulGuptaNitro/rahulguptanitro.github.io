@@ -28,4 +28,4 @@ You can download the app from [play store](https://play.google.com/store/apps/de
 
 You can view the code on [github](https://github.com/RahulGuptaNitro/LOCO-Ladoo). 
 
-[Home](https://rahulguptanitro.github.io){: .btn .btn-info}
+[Projects](https://rahulguptanitro.github.io/projects){: .btn .btn-info}
