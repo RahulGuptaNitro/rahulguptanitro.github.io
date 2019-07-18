@@ -14,11 +14,15 @@ date: 2019-06-09
 
 Hi! I am Rahul Kumar Gupta pursuing Bachelor of Technology in Computer Science and Engineering from University of Lucknow.
 
-I love programming. In my Eighth Standard when I was learning C++ as a part of curriculam and made a simple calculator program, I was very much astonished as well as furious about the computer that it can do anything following commands. From then, Computer is as a special part in my life. Programming makes me feel cheery and I am always ready to code and learn new things introduced to this huge Virtual World of Computer Science.
+
+I am deeply interested in the vast field of algorithms, fascinated by the emerging wonders of machine learning, and keen to learn
+about software systems. My coursework has equipped me well with basic grounding and I'm eager to continue learning and diving deeper. For me, using CS, math, and concrete reasoning to solve complex real-world
+problems is one of the things providing intrinsic meaning to life.
+Programming makes me feel cheery and I am always ready to code and learn new things introduced to this huge Virtual World of Computer Science.
 
 
 
-**- Rahul** .
+**  ** .
 
       
 
