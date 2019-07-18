@@ -20,8 +20,8 @@ tag:
 
 ## About 
 
-Built a Chatbot using IBM's Watson Assistant.
-I learnt about Intent, Entities and Dialog in IBM Cloud Computing while building this bot.
+I built the Chatbot using Watson Assistant.
+Learnt about Intent, Entities and Dialog in IBM Cloud Computing while building this bot.
 
 
 To check this bot [click here](https://rahulguptanitro.github.io/Rahul's_Assistant).
