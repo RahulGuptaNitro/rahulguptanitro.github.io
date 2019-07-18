@@ -27,4 +27,4 @@ I learnt about Intent, Entities and Dialog in IBM Cloud Computing while building
 To check this bot [click here](https://rahulguptanitro.github.io/Rahul's_Assistant).
  
 
-[Home](https://rahulguptanitro.github.io){: .btn .btn-info}
+[Projects](https://rahulguptanitro.github.io/projects){: .btn .btn-info}
