@@ -12,7 +12,7 @@ date: 2019-06-09
 
 ## Bit About Me
 
-Hi! I am Rahul Kumar Gupta pursuing Bachelor of Technology in Computer Science and Engineering from University of Lucknow.
+Hi! I am Rahul Kumar Gupta.
 
 
 I am deeply interested in the vast field of algorithms, fascinated by the emerging wonders of machine learning, and keen to learn
