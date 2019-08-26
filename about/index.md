@@ -12,7 +12,7 @@ date: 2019-06-09
 
 ## Bit About Me
 
-Hi! I am Rahul Kumar Gupta currently pursuing Information Technology Engineering from Noida Institute of Engineering & Technology.
+Hi! I am Rahul Kumar Gupta pursuing Information Technology Engineering from Noida Institute of Engineering & Technology.
 
 
 I am deeply interested in the vast field of algorithms, fascinated by the emerging wonders of machine learning, and keen to learn
