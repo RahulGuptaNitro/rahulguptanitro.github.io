@@ -1,0 +1,194 @@
+<html lang="en"><head>
+    <title>Rahul's Assistant Preview Link</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!--
+      
+(C) Copyright IBM Corp. 2017 - 2019. All Rights Reserved.
+
+Licensed under the Apache License, Version 2.0 (the &#34;License&#34;); you may not use this file except
+in compliance with the License. You may obtain a copy of the License at
+
+http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software distributed under the License
+is distributed on an &#34;AS IS&#34; BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express
+or implied. See the License for the specific language governing permissions and limitations under
+the License.
+
+watson-web-channel 0.1.0-0
+Contributors: Ethan Winters, Raymond Chu, Karen Harris, Ashley Lord, Amy Zhong, Ryan Simpson, Anthony Wong, Wilson Wong, David G Terry, Simon Burns, Damon Lundin, John Engstrom, Neil Mallinar
+
+
+
+      -->
+    <link href="/web/carbon-components/css/carbon-components.min.css" rel="stylesheet">
+      <style type="text/css">
+    html {
+      height: 100%;
+    }
+
+    body {
+      background: #f7f7f7;
+      height: 100%;
+      margin: 0;
+      padding: 0;
+      width: 100%;
+    }
+
+    .Chat__header {
+      text-align: center;
+      padding-top: 32px;
+      width: 100%;
+    }
+
+    .Chat__header h1, .Chat__header h1 a {
+      font-size: 1.2rem;
+    }
+
+    .Chat__holder,
+    .Chat__body {
+      border-radius: 0.5em;
+    }
+
+    .Chat__holder {
+      background: #f7f7f7;
+      height: 540px;
+      margin: 32px auto 0 auto;
+      width: 320px;
+    }
+
+    .Chat__title {
+      background: #0062ff;
+    }
+
+    .Chat__body {
+      height: 540px;
+      width: 320px;
+      max-height: calc(100vh - 140px);
+    }
+
+    .Chat__body--loading {
+      text-align: center;
+    }
+
+    .Chat__body--loading .bx--loading {
+      margin: auto;
+    }
+
+    .Chat__404 {
+      text-align: center;
+    }
+
+    .Chat__loading {
+      margin: auto;
+      text-align: center;
+      width: 64px;
+    }
+
+    .link-icon {
+      fill: #0062ff;
+    }
+
+    /**
+     * We're picking up font-faces from carbon but those appear out-of-date and the semibold versions contained within
+     * appear to have some defects in them. See https://github.ibm.com/watson-engagement-advisor/wea-backlog/issues/26907.
+     * The definitions below are copied from an upcoming version of carbon and can be removed once it's available.
+     */
+    @font-face {
+      font-family: 'IBM Plex Sans';
+      font-style: normal;
+      font-weight: 600;
+      src: local('IBM Plex Sans SemiBold'), local('IBMPlexSans-SemiBold'),
+      url(https://fonts.gstatic.com/s/ibmplexsans/v6/zYX9KVElMYYaJe8bpLHnCwDKjQ76AIxsdP3pBmtF8A.woff2) format('woff2');
+      unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F,
+      U+FE2E-FE2F;
+    }
+    @font-face {
+      font-family: 'IBM Plex Sans';
+      font-style: normal;
+      font-weight: 600;
+      src: local('IBM Plex Sans SemiBold'), local('IBMPlexSans-SemiBold'),
+      url(https://fonts.gstatic.com/s/ibmplexsans/v6/zYX9KVElMYYaJe8bpLHnCwDKjQ76AIVsdP3pBmtF8A.woff2) format('woff2');
+      unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+    }
+    @font-face {
+      font-family: 'IBM Plex Sans';
+      font-style: normal;
+      font-weight: 600;
+      src: local('IBM Plex Sans SemiBold'), local('IBMPlexSans-SemiBold'),
+      url(https://fonts.gstatic.com/s/ibmplexsans/v6/zYX9KVElMYYaJe8bpLHnCwDKjQ76AIJsdP3pBmtF8A.woff2) format('woff2');
+      unicode-range: U+0370-03FF;
+    }
+    @font-face {
+      font-family: 'IBM Plex Sans';
+      font-style: normal;
+      font-weight: 600;
+      src: local('IBM Plex Sans SemiBold'), local('IBMPlexSans-SemiBold'),
+      url(https://fonts.gstatic.com/s/ibmplexsans/v6/zYX9KVElMYYaJe8bpLHnCwDKjQ76AI5sdP3pBmtF8A.woff2) format('woff2');
+      unicode-range: U+0102-0103, U+0110-0111, U+1EA0-1EF9, U+20AB;
+    }
+    @font-face {
+      font-family: 'IBM Plex Sans';
+      font-style: normal;
+      font-weight: 600;
+      src: local('IBM Plex Sans SemiBold'), local('IBMPlexSans-SemiBold'),
+      url(https://fonts.gstatic.com/s/ibmplexsans/v6/zYX9KVElMYYaJe8bpLHnCwDKjQ76AI9sdP3pBmtF8A.woff2) format('woff2');
+      unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+    }
+    @font-face {
+      font-family: 'IBM Plex Sans';
+      font-style: normal;
+      font-weight: 600;
+      src: local('IBM Plex Sans SemiBold'), local('IBMPlexSans-SemiBold'),
+      url(https://fonts.gstatic.com/s/ibmplexsans/v6/zYX9KVElMYYaJe8bpLHnCwDKjQ76AIFsdA.woff2) format('woff2');
+      unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC,
+      U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+    }
+
+  </style>
+
+  <script type="text/javascript" async="" src="https://assistant-web.watsonplatform.net/0.1.1/WatsonAssistantChat.js"></script><script charset="utf-8" src="https://assistant-web.watsonplatform.net/0.1.1/vendors~render.WatsonAssistantChat.js"></script><script charset="utf-8" src="https://assistant-web.watsonplatform.net/0.1.1/render.WatsonAssistantChat.js"></script><script charset="utf-8" src="https://assistant-web.watsonplatform.net/0.1.1/css.WatsonAssistantChat.js"></script><script charset="utf-8" src="https://assistant-web.watsonplatform.net/0.1.1/theme.WatsonAssistantChat.js"></script></head>
+  <body>
+    
+    <div class="Chat__header" role="banner">
+</div>
+    <div class="Chat__holder">
+    <div class="Chat__body Chat__body--background" role="main">
+      
+    <div class="WatsonAssistantChatHost" style="width:100% !important;height:0% !important"></div></div>
+</div>
+
+    
+    
+    
+    <script src="https://assistant-web.watsonplatform.net/loadWatsonAssistantChat.js"></script>
+    <script>
+      var hostElement = document.querySelector('.Chat__body');
+      var loadingElement = document.querySelector('.bx--loading');
+      window.loadWatsonAssistantChat({
+        debug: true,
+        element: hostElement,
+        integrationID: '98c2d83c-9786-4d29-91cf-e15429f6670d',
+        showLauncher: false,
+        openChatByDefault: true,
+        region: 'eu-gb',
+        __ibm__: {
+          cdnEndpoint: 'https://assistant-web.watsonplatform.net',
+          postURL: 'https://assistant-chat-eu-gb.watsonplatform.net/public/message/',
+          isPreviewLink: true,
+          history: ''
+        }
+      }).then(function (instance) {
+        window.instance = instance;
+        instance.render().then(function () {
+          loadingElement.parentNode.removeChild(loadingElement);
+          hostElement.classList.remove('Chat__body--loading');
+          hostElement.classList.add('Chat__body--background');
+        });
+      });
+    </script>
+    
+  
+
+</body></html>
