@@ -739,6 +739,7 @@ readers do not read off random characters that represent icons */
 .#{$fa-css-prefix}-link:before { content: fa-content($fa-var-link); }
 .#{$fa-css-prefix}-linkedin:before { content: fa-content($fa-var-linkedin); }
 .#{$fa-css-prefix}-linkedin-in:before { content: fa-content($fa-var-linkedin-in); }
+.#{$fa-css-prefix}-linkedin-square:before { content: fa-content($fa-var-linkedin-square); }
 .#{$fa-css-prefix}-linode:before { content: fa-content($fa-var-linode); }
 .#{$fa-css-prefix}-linux:before { content: fa-content($fa-var-linux); }
 .#{$fa-css-prefix}-lira-sign:before { content: fa-content($fa-var-lira-sign); }
