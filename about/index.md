@@ -10,8 +10,6 @@ date: 2019-06-09
 
 
 
-## Bit About Me
-
 Hi! I am Rahul Kumar Gupta pursuing Information Technology Engineering from Noida Institute of Engineering & Technology.
 
 
