@@ -16,7 +16,7 @@ tag:
 ![project 1](https://raw.githubusercontent.com/RahulGuptaNitro/rahulguptanitro.github.io/master/Assistant.png)
 {: .image-pull-right}
 
-<center><b>Chatbot Project</b></center>
+<center><h2>Chatbot Project</h2></center>
 
 <br/> 
 
