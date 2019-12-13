@@ -16,9 +16,9 @@ tag:
 ![project 1](https://github.com/RahulGuptaNitro/rahulguptanitro.github.io/blob/master/locoladoo.png?raw=true)
 {: .image-pull-right}
 
-<center><b>Android App Project</b></center>
+<center><h2>Android App Project</h2></center>
 
-## About 
+<br/>
 
 It is a basic android app containing webview, back as well as refresh button. It also has banner ad implementation in it. This app was made through Android Studio.
 
@@ -28,4 +28,5 @@ You can download the app from [play store](https://play.google.com/store/apps/de
 
 You can view the code on [github](https://github.com/RahulGuptaNitro/LOCO-Ladoo). 
 
+<br/>
 [Projects](https://rahulguptanitro.github.io/projects){: .btn .btn-info}
