@@ -16,7 +16,7 @@ tag:
 ![project 1](https://raw.githubusercontent.com/RahulGuptaNitro/rahulguptanitro.github.io/master/DigitRec.png)
 {: .image-pull-right}
 
-<center><b>Digit Recognition</b></center>
+<center><h2>Digit Recognition</h2></center>
 
 <br/>  
 
