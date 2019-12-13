@@ -18,13 +18,16 @@ tag:
 
 <center><b>Digit Recognition</b></center>
 
-## About 
+##   
 
 Handwritten Digit Recognition using Python-
 
-Pyplot from matplotlib Library
-DecisionTreeClassifier from sklearn.tree Library
-And Pandas
+
+* Pyplot from matplotlib Library
+
+* DecisionTreeClassifier from sklearn.tree Library
+
+* And Pandas
 
 
 Check code on Github [click here](https://github.com/RahulGuptaNitro/Digit-Recognizer).
