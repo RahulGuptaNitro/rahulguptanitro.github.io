@@ -18,7 +18,7 @@ tag:
 
 <center><b>Digit Recognition</b></center>
 
-##   
+<br/>  
 
 Handwritten Digit Recognition using Python-
 
@@ -32,5 +32,5 @@ Handwritten Digit Recognition using Python-
 
 Check code on Github [click here](https://github.com/RahulGuptaNitro/Digit-Recognizer).
  
-
+<br/>
 [Projects](https://rahulguptanitro.github.io/projects){: .btn .btn-info}
