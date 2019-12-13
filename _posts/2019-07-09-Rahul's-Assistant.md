@@ -18,7 +18,7 @@ tag:
 
 <center><b>Chatbot Project</b></center>
 
-## About 
+<br/> 
 
 I built the Chatbot using Watson Assistant.
 Learnt about Intent, Entities and Dialog in IBM Cloud Computing while building this bot.
@@ -26,5 +26,5 @@ Learnt about Intent, Entities and Dialog in IBM Cloud Computing while building t
 
 To check this bot [click here](https://rahulguptanitro.github.io/assistant_rahul).
  
-
+<br/>
 [Projects](https://rahulguptanitro.github.io/projects){: .btn .btn-info}
