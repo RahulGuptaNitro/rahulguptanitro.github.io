@@ -25,9 +25,9 @@ I am deeply interested in the vast field of algorithms, fascinated by the emergi
 * Javascript
 * jQuery
 * Android Development
-
 <br />
+
+[Home](https://rahulguptanitro.github.io){: .btn .btn-info}
 <div class="rightnote">
   Visit my Github, Linkedin and email me by clickng on icon present at bottom.
 </div>
-[Home](https://rahulguptanitro.github.io){: .btn .btn-info}
