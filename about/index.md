@@ -27,8 +27,8 @@ I am deeply interested in the vast field of algorithms, fascinated by the emergi
 * Android Development
 
 <br />
-<div class="yazibilgisi">
-  You can also visit my Github, Linkedin and can email me by clickng on icon present at bottom.
+<div class="rightnote">
+  Visit my Github, Linkedin and email me by clickng on icon present at bottom.
 </div>
 
 [Home](https://rahulguptanitro.github.io){: .btn .btn-info}
