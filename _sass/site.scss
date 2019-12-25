@@ -619,6 +619,15 @@ ul.menuAna {
   font-size: 13px;
 }
 
+.rightnote {
+  color: rgba(81, 81, 81, .4);
+  font-size: 12px;
+  text-align: right;
+	margin-right: 20px;
+	line-height: 60px;
+  font-family: $title-font;
+}
+
 .windows {
   background-image: url("http://alperenbozkurt.tk/img/Windows.png");
   background-size: cover;
