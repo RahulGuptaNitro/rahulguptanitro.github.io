@@ -26,9 +26,9 @@ I am deeply interested in the vast field of algorithms, fascinated by the emergi
 * jQuery
 * Android Development
 
-<div class="aciklamaUrun">
+<br />
+<div class="yazibilgisi">
   You can also visit my Github, Linkedin and can email me by clickng on icon present at bottom.
 </div>
 
-<br />
 [Home](https://rahulguptanitro.github.io){: .btn .btn-info}
