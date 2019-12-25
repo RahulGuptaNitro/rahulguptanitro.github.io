@@ -30,5 +30,4 @@ I am deeply interested in the vast field of algorithms, fascinated by the emergi
 <div class="rightnote">
   Visit my Github, Linkedin and email me by clickng on icon present at bottom.
 </div>
-
 [Home](https://rahulguptanitro.github.io){: .btn .btn-info}
