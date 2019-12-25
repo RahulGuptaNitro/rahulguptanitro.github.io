@@ -28,5 +28,5 @@ I am deeply interested in the vast field of algorithms, fascinated by the emergi
 * Android Development
 
 
- 
+<br />
 [Home](https://rahulguptanitro.github.io){: .btn .btn-info}
