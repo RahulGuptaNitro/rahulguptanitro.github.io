@@ -13,7 +13,7 @@ tag:
 - project
 ---
 
-![project 4]("https://raw.githubusercontent.com/RahulGuptaNitro/rahulguptanitro.github.io/master/assets/img/FruitGame.png")
+![project 4](/assets/img/FruitGame.png)
 {: .image-pull-right}
 
 <center><h2>Html Game</h2></center>
