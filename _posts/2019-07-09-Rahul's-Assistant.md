@@ -23,8 +23,8 @@ tag:
 I built the Chatbot using Watson Assistant.
 Learnt about Intent, Entities and Dialog in IBM Cloud Computing while building this bot.
 
+[Check It](https://rahulguptanitro.github.io/assistant.html){: .btn .btn-success}
 
-To check this bot [click here](https://rahulguptanitro.github.io/assistant_rahul).
  
 <br/>
 [Projects](https://rahulguptanitro.github.io/projects){: .btn .btn-info}
