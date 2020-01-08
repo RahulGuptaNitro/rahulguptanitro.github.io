@@ -30,9 +30,10 @@ Game made using-
 
 Just hover the mouse over fruits to cut it.
 
+Check code on Github [click here](https://github.com/RahulGuptaNitro/FruitSliceGame).
+
 [Play game](https://rahulguptanitro.github.io/FruitSliceGame/){: .btn .btn-success}
 
-Check code on Github [click here](https://github.com/RahulGuptaNitro/FruitSliceGame).
- 
+
 <br/>
 [Projects](https://rahulguptanitro.github.io/projects){: .btn .btn-info}
