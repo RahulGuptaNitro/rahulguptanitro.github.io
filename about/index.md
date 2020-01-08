@@ -24,6 +24,7 @@ I am deeply interested in the vast field of algorithms, fascinated by the emergi
 * CSS
 * Javascript
 * jQuery
+* BootStrap
 * Android Development
 
 
