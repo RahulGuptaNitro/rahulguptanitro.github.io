@@ -26,7 +26,9 @@ I started working on this app in holiday break after my twelfth boards and publi
 
 You can view the code on [github](https://github.com/RahulGuptaNitro/LOCO-Ladoo).
 
-You can download the app from [Play Store](https://play.google.com/store/apps/details?id=com.antitech.locoladoo){: .btn .btn-success}
+You can download the app from 
+
+[Play Store](https://play.google.com/store/apps/details?id=com.antitech.locoladoo){: .btn .btn-success}
 
 <br/>
 [Projects](https://rahulguptanitro.github.io/projects){: .btn .btn-info}
