@@ -11,7 +11,7 @@ tag:
 - PH526x
 ---
 
-## HarvardX PH526x Python for Research from HarvardX.
+## PH526x Python for Research from HarvardX.
 ### (Dec'19 - Jan'20)
 
 
