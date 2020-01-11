@@ -3,7 +3,7 @@ layout: post
 title:  "Fruit Slice Game"
 image: "/assets/img/cherries.png"
 date:   2019-12-28
-excerpt: "Html, css, jQuery"
+excerpt: "Html & jQuery Game"
 project: true
 tag:
 - html
