@@ -22,6 +22,7 @@ I am deeply interested in the vast field of algorithms, fascinated by the emergi
 * Java
 * HTML
 * CSS
+* PHP
 * Javascript
 * jQuery
 * BootStrap
