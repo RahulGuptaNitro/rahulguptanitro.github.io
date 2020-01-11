@@ -3,7 +3,7 @@ layout: post
 title:  "Digit Recognizer"
 image: "https://raw.githubusercontent.com/RahulGuptaNitro/rahulguptanitro.github.io/master/Digit.png"
 date:   2019-10-10
-excerpt: "Handwritten Digit Recognition"
+excerpt: "Machine Learning Project"
 project: true
 tag:
 - Digit
@@ -16,7 +16,7 @@ tag:
 ![project 1](https://raw.githubusercontent.com/RahulGuptaNitro/rahulguptanitro.github.io/master/DigitRec.png)
 {: .image-pull-right}
 
-<center><h2>Digit Recognition</h2></center>
+<center><h2>Machine Learning Project</h2></center>
 
 <br/>  
 
