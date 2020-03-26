@@ -783,7 +783,7 @@ ul.menu {
 }
 @media (max-width: 1000px) {
 	.menuAc{
-		font-size: 28px;
+		font-size: 30px;
 	  float: left;
 	  list-style: none;
 		opacity: 0;
@@ -809,7 +809,7 @@ ul.menu {
 		background-color: red;
 		top: 0px;
 		right: 0px;
-		width: 200px;
+		width: 215px;
 		height: 100vh;
 		z-index: 1;
 		background-color: $main-color;
@@ -830,7 +830,7 @@ ul.menu {
 	      padding: 10px;
 	      border-radius: 6px;
 	      color: $background-color;
-	      width: auto;
+	      width: 160px;
 	      text-decoration: none;
 	      font-family: $menu-font;
 
