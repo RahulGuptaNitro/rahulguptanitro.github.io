@@ -19,6 +19,8 @@ I am deeply interested in the vast field of algorithms, fascinated by the emergi
 ### My Skills
 * Machine Learning
 * Python
+* Matlab
+* C
 * Java
 * HTML
 * CSS
