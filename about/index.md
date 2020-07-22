@@ -17,8 +17,9 @@ Hello! I am Rahul Kumar Gupta freshman student pursuing Information Technology E
 I am deeply interested in the vast field of algorithms, fascinated by the emerging wonders of machine learning, and keen to learn about software systems. I’m eager to continue learning and diving deeper. For me, using CS, Math, and Concrete Reasoning to solve complex real-world problems is one of the things providing intrinsic meaning to life. Programming makes me feel cheery and I am always ready to code and learn new things introduced to this huge Virtual World of Computer Science.
 
 ### My Skills
-* Machine Learning
 * Python
+* Flutter
+* Machine Learning
 * Matlab
 * C
 * Java
@@ -26,8 +27,6 @@ I am deeply interested in the vast field of algorithms, fascinated by the emergi
 * CSS
 * PHP
 * Javascript
-* jQuery
-* BootStrap
 * Android Development
 
 
