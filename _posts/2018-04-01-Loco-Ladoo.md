@@ -20,9 +20,12 @@ tag:
 
 <br/>
 
-It is a basic android app containing webview, back as well as refresh button. It also has banner ad implementation in it. This app was made through Android Studio.
+It is a webview app in which I have done some modifications and integrated ads. I also have deployed seperate refresh and back button.
 
-I started working on this app in holiday break after my twelfth boards and published on play store. It has around 30,000 downloads.
+About the app: There was a live trivia app called Loco. And this app (Loco Ladoo) provided
+hints for the questions asked in Loco. I built it in my 12th standard.
+
+It has 30,000+ downloads on play store.
 
 View project on [github](https://github.com/RahulGuptaNitro/LOCO-Ladoo)!
 
