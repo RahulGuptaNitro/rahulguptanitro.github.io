@@ -5,7 +5,7 @@ tags: [about, Rahul, Life, me]
 date: 2019-06-09
 ---
 
-![About](https://raw.githubusercontent.com/RahulGuptaNitro/RahulGuptaNitro/master/Banner.png)
+![About](https://raw.githubusercontent.com/RahulGuptaNitro/rahulguptanitro.github.io/master/assets/img/Banner.png)
 {: .image-pull-right}
 
 
