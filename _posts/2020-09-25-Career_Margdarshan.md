@@ -15,7 +15,9 @@ tag:
 ### (May'20 - Sep'20)
 
 
-Application Developer Intern
+Career Margdarshan is a startup which helps students in their college counseling process. I built an android application using flutter for employees, 
+after authentication they can get accurate prediction of college based on previous year results of various exams by entering data provided by students.
+
 
 
 
