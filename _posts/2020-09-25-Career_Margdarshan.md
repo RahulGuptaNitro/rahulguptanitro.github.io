@@ -18,7 +18,7 @@ tag:
 Application Developer Intern
 
 
-Certificate-
+
 <iframe src="https://drive.google.com/file/d/1iM9xtwIqZIagYK5EwF32qZdKRTjIQTE4/preview" width="100%" height="480"></iframe>
 
 <br />
