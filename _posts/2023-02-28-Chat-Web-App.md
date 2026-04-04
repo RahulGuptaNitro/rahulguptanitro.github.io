@@ -3,7 +3,7 @@ layout: post
 title:  "Chat Web Application"
 image: "/assets/img/chatwebapp.png"
 date:   2023-02-28
-excerpt: "Real-time messaging app using Spring Boot and React.js"
+excerpt: "Real-time messaging app"
 project: true
 tag:
 - Java
