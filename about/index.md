@@ -5,7 +5,7 @@ tags: [about, Rahul, Life, me]
 date: 2026-04-04
 ---
 
-![About](https://raw.githubusercontent.com/RahulGuptaNitro/rahulguptanitro.github.io/master/assets/img/Banner.png)
+![About](https://raw.githubusercontent.com/RahulGuptaNitro/rahulguptanitro.github.io/master/assets/img/MyBitmoji.png)
 {: .image-pull-right}
 
 
